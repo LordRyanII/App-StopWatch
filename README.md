@@ -1,6 +1,12 @@
 # App-StopWatch
  # Simple application training DOM manipulation #
  
+ _Skilss:
+ 
+ -Html5;
+ -Css3;
+ -Javascript;
+ -Bootstrap 5
  
  
  - Layout overview:

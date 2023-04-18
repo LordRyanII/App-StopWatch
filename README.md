@@ -4,9 +4,9 @@
  _Skilss:
  
  -Html5;
- -Css3;
- -Javascript;
- -Bootstrap 5
+ Css3;
+ Javascript;
+ Bootstrap 5
  
  
  - Layout overview:

@@ -4,7 +4,7 @@
  _Skilss:
  
  -Html5;
- Css3
+ Css3;
  Javascript; and
  Bootstrap 5
  
